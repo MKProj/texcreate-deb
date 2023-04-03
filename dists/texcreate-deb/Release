@@ -1,0 +1,16 @@
+Codename: texcreate-deb
+Date: Mon, 03 Apr 2023 02:06:30 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ dd70c72be67c8a051cf647dd07038e9c 750 main/binary-amd64/Packages
+ 197ffa25f77cf7a9e7e24065baef94c7 491 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 1fe1dfb352f31f70e284bced5d446b8d5f6e0b3e 750 main/binary-amd64/Packages
+ 29d81351a2fddf067db6e1f7b021af82812daa7d 491 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ ac453b5ecade83bd86753202bea86921b2dc08acd9df56d435dedcacd3dc6e28 750 main/binary-amd64/Packages
+ 6cc10c494071d273591ab5a2dae2bc9b16dd7741086d7eee56c6354bef963df1 491 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release

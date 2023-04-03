@@ -1,0 +1,20 @@
+Package: texcreate
+Version: 3.0.0
+Architecture: amd64
+Vcs-Browser: https://github.com/MKProj/texcreate
+Vcs-Git: https://github.com/MKProj/texcreate
+Homepage: https://texcreate.mkproj.com
+Maintainer: Mustafif Khan <mustafif.khan@mkproj.com>
+Installed-Size: 10009
+Depends: zlib1g (>= 1:1.1.4), libssl3 (>= 3.0.0~~alpha1), libc6 (>= 2.34)
+Priority: optional
+Section: utility
+Filename: pool/main/t/texcreate/texcreate_3.0.0_amd64.deb
+Size: 2893748
+SHA256: 2423e7a9bbd2a8791504928fc84eabf17c65a736f25452f90dc1728eadcdbffd
+SHA1: 057d67143039d926f023ba6ddcf5993caae561ee
+MD5sum: b0c50679b23981584bf9e9548f043142
+Description: A LaTeX Project Creator by Mustafif Khan
+ A LaTeX Project Creator that utilizes prebuilt templates to ease development
+ with LaTeX
+
