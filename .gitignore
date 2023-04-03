@@ -2,3 +2,4 @@ conf/
 db/
 dists/
 pool/
+Makefile
